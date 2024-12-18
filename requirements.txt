@@ -1,0 +1,13 @@
+requests
+pandas
+numpy
+scikit-learn
+tensorflow
+flask
+kivy
+matplotlib
+dash
+plotly
+smtplib
+twilio
+cryptography
